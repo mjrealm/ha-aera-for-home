@@ -10,3 +10,7 @@ Custom integration for Home Assistant to control and monitor Aera for Home smart
 - Monitor remaining fragrance percentage.
 - View current fragrance name.
 - Control scent intensity.
+
+## Credits
+
+This integration is powered by the unofficial [aeraforhome](https://pypi.org/project/aeraforhome/) Python library.
