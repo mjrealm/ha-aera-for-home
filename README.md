@@ -1,5 +1,6 @@
 # Aera for Home
 
+![Aera for Home Diffuser](images/aera_diffuser.png)
 This is a custom integration for Home Assistant to control and monitor Aera for Home smart fragrance diffusers.
 
 ## Features
